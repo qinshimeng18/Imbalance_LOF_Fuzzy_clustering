@@ -1,4 +1,5 @@
-# Imbalance_LOF_Fuzzy_clustering
+# Imbalance_LOF_Fuzzy_clustering  
+> put data in the codes file to correctly load data
 # 1. ***Classification Task (60 marks)***  
 
 ## Training Enviroment  
